@@ -1,0 +1,33 @@
+{
+  "label":"新插入的数据---->",
+  "compName":"View",
+  "id":"new-id",
+  "compType":0,
+  "compLib":"@/components",
+  "props":{
+      "name":"页面"
+  },
+  "style":{
+      "minHeight":"100%",
+      "display":"block",
+      "padding":"12px 12px 12px 12px",
+      "flexDirection":"column",
+      "overflowY":"auto",
+      "backgroundColor":"#F9F9F9"
+  },
+  "isContainer":true,
+  "isBusiObjContainer":false,
+  "cmdgroup":[
+      "basic"
+  ],
+  "platform":"h5",
+  "description":"",
+  "image":"",
+  "groupsName":"容器",
+  "setEvents":[
+
+  ],
+  "path":[
+      "798275"
+  ]
+}

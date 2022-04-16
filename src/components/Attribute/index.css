@@ -1,0 +1,9 @@
+.attr-btn {
+  cursor: pointer;
+  display: inline-block;
+  width: 80px;
+}
+
+input {
+  border: none;
+}

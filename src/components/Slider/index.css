@@ -1,0 +1,15 @@
+.slider {
+  width: 200px;
+  height: 100%;
+  overflow: scroll;
+}
+
+.slider-row {
+  padding-left: 15px;
+  min-height: 30px;
+  line-height: 30px;
+}
+
+.select {
+  background-color: #f40;
+}

@@ -1,0 +1,7 @@
+.action {
+  flex: 1;
+  height: 100%;
+  overflow-y: scroll;
+  margin: 20px;
+  background-color: #fff;
+}
